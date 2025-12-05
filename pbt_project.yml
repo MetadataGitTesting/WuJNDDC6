@@ -1,0 +1,58 @@
+name: eliseo.wehner
+description: exuding
+version: 0.71.191
+author: 6x58vqbr.hs2nem3t@wn6f8jko.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: eliseowehner
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 22:54:51'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 22:54:51'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T22:54:51.524028Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '2025763428'
+  createdAt: '2025-12-05T22:54:51.524028Z'
+  type: plibMaven
+projectDependencies:
+  '121':
+    projectUID: 121
+    projectName: chiquita.reynolds
+    repositoryPath: gitUri=http://gitserver:3000/dev_lqBuDiC2_team_205/dev_lqBuDiC2_project_121.git&subPath=
+    version: chiquita.reynolds/0.36.361
+    isDefault: false
+    author: null
+    createdAt: '2025-12-05 22:54:50'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
